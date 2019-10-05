@@ -14,6 +14,7 @@ namespace Fiap.Controllers
 
             ViewData["NomeDoAluno"] = "Thiago";
             ViewBag.NovoNomeDoAluno = "Thiagao";
+            ViewData["Title"] = "Hora do Papa";
 
             ViewBag.ConteudoSinistro = "<script>alert('oi')</script>";
 
